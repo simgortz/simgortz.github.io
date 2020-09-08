@@ -21,7 +21,6 @@ clickEventH1.addEventListener("contextmenu", contextmenuEvent);
 
 
 
-
 let keydownEvent = function(){
     keyEventH1.innerHTML = "You pressed a key.";
 }
